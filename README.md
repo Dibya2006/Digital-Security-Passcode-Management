@@ -1,1 +1,2 @@
 # Digital-Security-Passcode-Management
+A system that ensures the security and controlled access of a device or entry point is what this digital passcode project represents in the field of digital electronics. By verifying a user-entered code against a predefined combination using logic gates, the system grants or denies access accordingly. It highlights how fundamental gate-level design can be applied to real-world security applications, such as digital door locks, safes, or secure control panels.
